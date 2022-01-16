@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mananoreboton/weathersensorfrontend/issues"
   },
-  "homepage": "https://github.com/mananoreboton/weathersensorfrontend#readme"
+  "homepage": "https://github.com/mananoreboton/weathersensorfrontend#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
