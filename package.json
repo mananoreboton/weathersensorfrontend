@@ -1,0 +1,19 @@
+{
+  "name": "weathersensorfrontend",
+  "version": "1.0.0",
+  "description": "Web frontend to display weather data from sensors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mananoreboton/weathersensorfrontend.git"
+  },
+  "author": "Manuel Bueno",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/mananoreboton/weathersensorfrontend/issues"
+  },
+  "homepage": "https://github.com/mananoreboton/weathersensorfrontend#readme"
+}
